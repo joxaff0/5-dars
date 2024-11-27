@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background: rgba(52, 60, 86, 1);
+    width: 1160px;
+    height: 900px;
+    margin-top: 58px;
+     margin-left: 140px;
+    border-radius: 40px;
+    
+}
+
+
+.box{
+    background: rgba(255, 1, 1, 1);
+     height: 40px;
+     width: 200px ;
+     margin-top: 50px;
+   border-radius: 30px;
+   color: white;
+   text-align: center;
+   
+   
+   
+}
+
+.box-big{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.img{
+    height: 200px;
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 70px;
+}
+   
+.img-2{
+    width: 400px;
+height: 200px;
+margin-top: px;
+margin-left: 215px;
+
+
+}
+
+
+.flexbox{
+    background: rgba(0, 0, 0, 1);
+    width: 264px;
+    height: 118px;
+    margin-top: 40px;
+    margin-left: 450px;
+    gap: 0px;
+    border-radius: 40px ;
+    opacity: 0px;
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+     
+}
+
+.Css{
+    background: rgba(235, 22, 22, 1);
+    width: 400px;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 70px;
+    gap: 0px;
+    border-radius: 50px ;
+    opacity: 0px;
+    
+}
+
+.flex{
+    background: rgba(97, 255, 0, 1);
+    width: 300px;
+height: 109px;
+margin-top: 70px;
+margin-left: 100px;
+text-align: center;
+justify-content: center;
+align-items: center;
+}
+
+.CSS{
+    background: rgba(235, 22, 22, 1);
+    width: 400px;
+    height: 200px;
+margin-top: -200px;
+margin-left: 700px;
+border-radius: 50px ;
+
+
+}
+
+.FLEX{
+    background: rgba(97, 255, 0, 1);
+
+    width: 300px;
+    height: 109px;
+    margin-top: 0px;
+    MARGIN-left: 100px;
+    text-align: center;
+    
+    
+}
